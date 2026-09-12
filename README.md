@@ -1,8 +1,3 @@
-# A Meo
-
-### Personal AI Runtime Platform
-
-**Change the brain. Keep your Personal AI.**
 <p align="center">
   <img src="assets/a-meo-logo.png" alt="A Meo logo" width="180">
 </p>
