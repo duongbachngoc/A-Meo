@@ -3,6 +3,17 @@
 ### Personal AI Runtime Platform
 
 **Change the brain. Keep your Personal AI.**
+<p align="center">
+  <img src="assets/a-meo-logo.png" alt="A Meo logo" width="180">
+</p>
+
+<h1 align="center">A Meo</h1>
+
+<h3 align="center">Personal AI Runtime Platform</h3>
+
+<p align="center">
+  <strong>Change the brain. Keep your Personal AI.</strong>
+</p>
 
 A Meo is a runtime for building and running a long-lived Personal AI — one that can keep its own knowledge, memory, state, working context, and capabilities independently of the AI model currently powering it.
 
