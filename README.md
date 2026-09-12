@@ -16,6 +16,10 @@ Gemini, GPT, Claude, Qwen, or a local model can be the brain.
 
 **The brain can change. Your Personal AI does not have to.**
 
+<p align="center">
+  <img src="assets/ameo-main-interface.jpg" alt="A Meo Personal AI Runtime" width="100%">
+</p>
+
 ---
 
 ## Why A Meo?
@@ -76,6 +80,13 @@ do not have to disappear just because the model changes.
 Capabilities that use A Meo's Host AI can also benefit as the underlying model improves, without requiring each capability to become a separate AI application.
 
 ---
+### Personal Knowledge Runtime
+
+A Meo can work with your existing knowledge sources without requiring you to reorganize your data around the AI.
+
+<p align="center">
+  <img src="assets/ameo-knowledge-source.jpg" alt="A Meo Knowledge Source" width="90%">
+</p>
 
 # Knowledge that lives beyond the context window
 
@@ -132,6 +143,14 @@ Because the model is separated from the Personal AI itself, local and cloud AI d
 ---
 
 # Modules
+
+### Plug & Play Modules
+
+Modules extend what your A Meo can do without modifying the Core.
+
+<p align="center">
+  <img src="assets/ameo-modules.jpg" alt="A Meo Plug and Play Modules" width="90%">
+</p>
 
 ## Add a Module. Teach A Meo a new capability.
 
