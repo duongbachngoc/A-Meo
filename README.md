@@ -177,6 +177,20 @@ Or it can become much larger:
 The important point is that the feature list of A Meo Core is **not the ceiling of what an A Meo can eventually do**.
 
 > **Add a Module. A Meo learns another capability.**
+## Reference Module
+
+A complete reference Module is included in this repository:
+
+**Workbench V1.1**
+
+`examples/Workbench/`
+
+It includes:
+
+- `WorkbenchV1.1.txt` — complete reference Module source
+- `build_project.py` — helper for generating the Module project
+
+A practical way to start is to provide both the **A Meo Public Module Contract V1.3** and the **Workbench reference source** to a coding AI, then describe the capability you want to build.
 
 ---
 
