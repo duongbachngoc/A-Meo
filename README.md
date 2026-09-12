@@ -648,7 +648,7 @@ That scope is deliberate.
 ```text
 ┌─────────────────────────────────────────────────────────┐
 │                       INTERFACES                        │
-│              Desktop / Telegram / Future               │
+│              Desktop / Telegram / Future                │
 └───────────────────────────┬─────────────────────────────┘
                             │
 ┌───────────────────────────▼─────────────────────────────┐
@@ -748,8 +748,6 @@ Install it like a normal Windows desktop application.
 
 Download the latest macOS installer from **GitHub Releases**.
 
-Install it like a normal macOS application.
-
 > **Always download A Meo from this official repository.**
 >
 > Do not install binaries distributed through unofficial third-party sources.
@@ -758,6 +756,41 @@ Release packages may include cryptographic checksums so downloaded installers ca
 
 ---
 
+# Get a Free CD-Key
+
+A Meo currently requires a CD-Key for activation.
+
+During the public testing period, **CD-Keys are provided free of charge**.
+
+To request a CD-Key, contact:
+
+**Email:** duongbachngoc.shv@gmail.com
+
+Please include:
+
+- Your name or GitHub username
+- Your operating system
+- A short note saying that you would like to test A Meo
+
+You will receive a CD-Key that can be entered directly into A Meo's activation screen.
+
+> CD-Keys are currently issued manually, so delivery may not be immediate.
+
+---
+
+# Quick Start
+
+Getting started with A Meo is designed to be simple:
+
+1. Download the installer for your operating system.
+2. Request a **free CD-Key** using the instructions above.
+3. Install A Meo like a normal desktop application.
+4. Launch A Meo and enter your CD-Key when requested.
+5. Complete the initial onboarding.
+6. Configure an online AI provider or a local AI model.
+7. Point A Meo to the Knowledge Sources you want it to use.
+8. Start talking and working with your Personal AI.
+9. Add Modules whenever you want A Meo to learn a new capability.
 # Quick Start
 
 Getting started with A Meo is designed to be simple:
